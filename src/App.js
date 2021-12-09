@@ -32,7 +32,6 @@ const App = () => {
                     <Link to='/'>Homepage</Link>
                     <Link to='/exchanges'>Exchanges</Link>
                     <Link to='/cryptocurrencies'>Cryptocurrencies</Link>
-                    <Link to='/cryptoDetails'>CryptoDetails</Link>
                 </Space>
             </div>
             </div>
