@@ -37,6 +37,7 @@ a:hover{
 }
 .nav-container{
     position: fixed;
+    padding-left: 1%;
     left: 0;
     margin: 10px;
     height: 100vh;
